@@ -43,7 +43,15 @@
  
  可滑动的tab栏：https://github.com/ptomasroos/react-native-scrollable-tab-view
  
+ 多个组件集：https://github.com/forrest23/ReactNativeComponents
+ 
  日历组件：https://github.com/wix/react-native-calendars
+ 
+ 日期时间选择组件：https://github.com/react-component/m-date-picker
+ 
+ 日期和时间选择器：https://github.com/react-native-community/datetimepicker
+ 
+ 日期选择器：https://github.com/mmazzarolo/react-native-modal-datetime-picker
  
  表单组件：https://github.com/FaridSafi/react-native-gifted-form
  
