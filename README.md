@@ -4,9 +4,10 @@
 
 组件和工具集：https://github.com/jondot/awesome-react-native
 
-组件搜索：https://react.parts/?collection=React+Native / https://js.coach/?collection=React+Native
+组件搜索：https://react.parts/?collection=React+Native / [https://js.coach/?collection=React+Native] / https://reactnative.directory/popular
 
 可自定义组件集：https://github.com/shoutem/ui
+
 
 UI
 
@@ -19,6 +20,7 @@ UI
 跨平台UI库：https://github.com/wix/react-native-ui-lib
 
 
+
 路由和导航
 
 原生路由和导航：https://github.com/react-navigation/react-navigation
@@ -26,6 +28,7 @@ UI
 声明式路由：https://github.com/aksonov/react-native-router-flux
 
 导航：https://github.com/wix/react-native-navigation
+
 
 
 媒体
@@ -49,6 +52,7 @@ UI
 SVG：https://github.com/react-native-svg/react-native-svg
 
 
+
 动画
 
 声明式动画库：https://github.com/oblador/react-native-animatable
@@ -58,6 +62,7 @@ SVG：https://github.com/react-native-svg/react-native-svg
 可交互动画库：https://github.com/wix/react-native-interactable
 
 可以解析AE动画导出为JSON：https://github.com/lottie-react-native/lottie-react-native
+
 
 
 存储
@@ -71,6 +76,7 @@ SQLite3数据库插件：https://github.com/andpor/react-native-sqlite-storage
 键值存储：https://github.com/mrousavy/react-native-mmkv
 
 
+
 文件管理
 
 本地文件管理器：https://github.com/itinance/react-native-fs
@@ -78,12 +84,14 @@ SQLite3数据库插件：https://github.com/andpor/react-native-sqlite-storage
 文档选择器：https://github.com/rnmods/react-native-document-picker
 
   
+  
 模态框
 
 可自定义模态框：https://github.com/react-native-modal/react-native-modal
  
 可定制的模态框：https://github.com/jeremybarbet/react-native-modalize
 
+ 
  
  表单
  
@@ -96,14 +104,17 @@ SQLite3数据库插件：https://github.com/andpor/react-native-sqlite-storage
  表单组件：https://github.com/FaridSafi/react-native-gifted-form
  
  
+ 
  图标
  
  常用图标库：https://github.com/oblador/react-native-vector-icons
  
  
+ 
  设备
 
  获取设备信息插件：https://github.com/react-native-community/react-native-device-info
+ 
  
  
  功能插件
@@ -121,7 +132,10 @@ SQLite3数据库插件：https://github.com/andpor/react-native-sqlite-storage
  应用内浏览器：https://github.com/proyecto26/react-native-inappbrowser
  
  
+ 
  其他
+ 
+ 轮播图：https://github.com/meliorence/react-native-snap-carousel
  
  bottom sheet：https://github.com/gorhom/react-native-bottom-sheet
  
